@@ -1,8 +1,8 @@
 {
   "name": "renkin-react",
   "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "description": "to use ``` import BestAlarm from 'renkin-react'",
+  "main": "renkin-react.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
