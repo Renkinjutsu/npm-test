@@ -7,3 +7,5 @@ class BestAlarm extends React.Component {
       )
     }
   }
+
+  export default BestAlarm;
